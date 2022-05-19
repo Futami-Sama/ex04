@@ -1,1 +1,1 @@
-printf "%b\n" | ip a
+printf "%b\n" | ip -N maddress
